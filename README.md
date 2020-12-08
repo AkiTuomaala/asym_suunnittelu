@@ -55,8 +55,3 @@ ASYM suunnittelu pohjautuu avoimen lähdekoodin sovellusten hyödyntämiseen kau
 ##### Yhteistyössä
 - [Kouvolan kaupunki](https://www.kouvola.fi/)
 - [GeoIDT](http://geoidt.com/)
-
-Lisenssi
-----
-
-CC
