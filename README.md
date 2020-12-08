@@ -37,14 +37,19 @@ ASYM suunnittelu pohjautuu avoimen lähdekoodin sovellusten hyödyntämiseen kau
                     [] Valaistus
                 [] Hankkeen sisältö
                 [] Kunnossapito
-            [] Kaavoituksen taulut
+            [] Kaavoituksen taulut (Gispo OY:n Qaavan tietomallin hyödyntäminen?)
+                [] Vaiheet
+                [] Budjetti
+                [] Aikataulu
             [] "Ohjelmat" (ex. Maantoteuttamissuunnitelma)
             [] Näkymät
     [] Käyttöliittymän asennus
         [] Node asennus
         [] React-app
             [] Kirjastot (mm. Leaflet)
-            [] 
+            [] Scriptit
+                [] CSS
+                [] JSX
  
 ##### Yhteistyössä
 - [Kouvolan kaupunki](https://www.kouvola.fi/)
