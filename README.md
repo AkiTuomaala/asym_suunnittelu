@@ -17,6 +17,10 @@ ASYM suunnittelu pohjautuu avoimen lähdekoodin sovellusten hyödyntämiseen kau
 
 ### TODO -lista
 
+    [] Ohjeistus tarvittaviin sovelluksiin
+        [] Postgres
+        [] Geoserver
+        [] Node
     [] Asennustiedosto .bat
         [] SQL pohjan asennusta varten
             [] Lisäosat (mm. postgis)
