@@ -41,7 +41,7 @@ ASYM suunnittelu pohjautuu avoimen lähdekoodin sovellusten hyödyntämiseen kau
                     [] Valaistus
                 [] Hankkeen sisältö
                 [] Kunnossapito
-            [] Kaavoituksen taulut (Gispo OY:n Qaavan tietomallin hyödyntäminen?)
+            [] Kaavoituksen taulut (Kaavan tietomallin hyödyntäminen?)
                 [] Vaiheet
                 [] Budjetti
                 [] Aikataulu
