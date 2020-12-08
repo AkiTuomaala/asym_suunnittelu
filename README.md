@@ -7,7 +7,7 @@ ASYM suunnittelu pohjautuu avoimen lähdekoodin sovellusten hyödyntämiseen kau
   - Räätälöityvyys omien tarpeiden mukaan
   - Yksinkertainen selainkäyttöliittymä esittämään ylläpidettyä tietoa tai lisäämään kohteita Postgres kantaan
  
-## Sisältö
+## Sisältö (rakenteilla)
 - Asennus .bat / .sh
     - Postgres kanta, lisäosat, taulut, näkymät, funktiot...
 - REACT pohjainen selainkarttakäyttöliittymän repo
